@@ -1,0 +1,6 @@
+# Nivel 3 - fortaleza: miolo de 3 batidas protegido pelas laterais
+.333333333333.
+.311111111113.
+.312222222213.
+.311111111113.
+.333333333333.

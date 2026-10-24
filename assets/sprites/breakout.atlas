@@ -1,0 +1,61 @@
+breakout.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brick1
+  rotate: false
+  xy: 0, 0
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+brick2
+  rotate: false
+  xy: 112, 0
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+brick3
+  rotate: false
+  xy: 224, 0
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+powerup
+  rotate: false
+  xy: 336, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+paddle
+  rotate: false
+  xy: 0, 48
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 128, 48
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pixel
+  rotate: false
+  xy: 168, 48
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 384, 0
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1

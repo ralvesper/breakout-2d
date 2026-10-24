@@ -1,0 +1,6 @@
+# Nivel 1 - aquecimento. 14 colunas por linha.
+# '.' = vazio, 1..3 = batidas necessarias, linhas com # sao ignoradas
+..............
+..1111111111..
+..1111111111..
+..............
